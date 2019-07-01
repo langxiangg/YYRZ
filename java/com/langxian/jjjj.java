@@ -1,4 +1,4 @@
 package com.langxian;
 
-public class jjj {
+public class jjjj {
 }
